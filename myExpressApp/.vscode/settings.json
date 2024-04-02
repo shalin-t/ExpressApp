@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/4ba4ab25-cec4-49a4-96ca-8fb9c72eb188/resourceGroups/shalinapp/providers/Microsoft.Web/sites/ShalinTAmazingWebApp",
+    "appService.deploySubpath": "."
+}
